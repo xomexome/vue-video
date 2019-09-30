@@ -1,6 +1,10 @@
-# stu-video
+# vue-video
 
 > A Vue.js project
+
+# 介绍
+
+> vue电影评价网站
 
 ## Build Setup
 

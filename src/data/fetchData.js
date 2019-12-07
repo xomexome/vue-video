@@ -1,5 +1,4 @@
 import axios from 'axios'
-//export const url = 'http://vue.wclimb.site';
 export const url = 'http://localhost:3000';
 //自定义配置创建axios
 let $axios = axios.create({
